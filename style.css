@@ -50,7 +50,6 @@ header{
 
 .header-wrap  img{
     margin-left: 167px;
-    /*//shadow додати//*/
 }
 
 .SocialMedia{
@@ -248,8 +247,6 @@ header{
     text-transform: capitalize;
 }
 .Portfolio-images{
-    /*grid-template-rows: 1fr 1fr ;*/
-    /*grid-template-columns: 1fr 1fr 1fr ;*/
     gap: 24px;
     display: flex;
     align-items: center;
