@@ -425,7 +425,7 @@ header{
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-    background-image: url("images/check-close/Check.png");
+    background-image: url("images/Check.png");
     background-size: cover;
 }
 
@@ -437,7 +437,7 @@ header{
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-    background-image: url("images/check-close/Close.png");
+    background-image: url("images/Close.png");
     background-size: cover;
 }
 
